@@ -1,0 +1,29 @@
+Bismilalh
+
+Insha allah creates 
+checklist for student
+
+1) learning checklist
+ 1) freecode camp read
+1) code practice checklist
+  1) rest api
+  1) mongoose 
+1) daily assignment 
+1) worked on project or not
+1) attend meeting
+1) apply jobs, intership
+----
+
+why not trello, slack
+---
+we need to see daily , weekly, monthly report, checklist
+ report need to send organizer, code coach
+---
+easy to fill
+ excel sheet like: tempo of jira
+ or fast questions one by one 
+---
+further you can write details also there
+  what you worked on 
+  are you blocked 
+---

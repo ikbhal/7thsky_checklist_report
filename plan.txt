@@ -1,0 +1,24 @@
+Bismillah 
+Insha allah plan properly
+execute
+split into small parts
+
+1) front end
+2) backend 
+
+technoglogies(node.js, express, socket.io, mongodb, tinydb)
+---
+simple: 
+---
+freecodecamp read or not?
+UI
+freecodecamp read or not?
+checkbox
+on change checkbox -> save to server
+server 
+/todo
+
+model
+[{Id: 0, text:"Freecodecamp read or not", done:true}]
+---
+
